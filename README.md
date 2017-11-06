@@ -174,7 +174,7 @@ body contenteditable="false">
 <p><a href="https://index.co/company/renew">Visit our HTML tutorial</a></p>
 <p><a href="https://index.co/company/renew-power">Visit our HTML tutorial</a></p>
 <p><a href="https://index.co/company/reserve">Visit our HTML tutorial</a></p>
-
+<p><a href="https://index.co/company/instabug">Visit our HTML tutorial</a></p>
 
 
 </body>
